@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ACIARMTemplate", "ACIARMTemplate\ACIARMTemplate.deployproj", "{637F497F-15DF-437B-89B2-6F836D7626A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637F497F-15DF-437B-89B2-6F836D7626A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637F497F-15DF-437B-89B2-6F836D7626A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637F497F-15DF-437B-89B2-6F836D7626A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637F497F-15DF-437B-89B2-6F836D7626A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DC1A0B-127F-4325-B89C-F3391DE8DAC5}
+	EndGlobalSection
+EndGlobal
